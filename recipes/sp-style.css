@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(254, 221, 158);
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+.bold {
+    color: rgb(244, 106, 8);
+}
+
+img {
+    height: auto;
+    width: 300px;
+}

@@ -1,0 +1,14 @@
+img {
+    height: auto;
+    width: 250px;
+}
+
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    background-color: rgb(200, 251, 234);
+}
+
+.bold {
+    color: rgb(29, 109, 34);
+}
+
